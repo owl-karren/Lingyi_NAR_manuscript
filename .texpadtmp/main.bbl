@@ -1,0 +1,350 @@
+\begin{thebibliography}{}
+
+\bibitem[Aitchison, 1982]{10.2307/2345821}
+Aitchison, J. (1982).
+\newblock The statistical analysis of compositional data.
+\newblock {\em Journal of the Royal Statistical Society. Series B
+  (Methodological)}, 44(2):139--177.
+
+\bibitem[Anderson, 2001]{Anderson:2001aa}
+Anderson, M.~J. (2001).
+\newblock A new method for non-parametric multivariate analysis of variance.
+\newblock {\em Austral Ecology}, 26(1):32--46.
+
+\bibitem[Bian et~al., 2017]{Bian2017}
+Bian, G., Gloor, G.~B., Gong, A., Jia, C., Zhang, W., Hu, J., Zhang, H., Zhang,
+  Y., Zhou, Z., Zhang, J., Burton, J.~P., Reid, G., Xiao, Y., Zeng, Q., Yang,
+  K., and Li, J. (2017).
+\newblock The gut microbiota of healthy aged chinese is similar to that of the
+  healthy young.
+\newblock {\em mSphere}, 2(5).
+
+\bibitem[Brooks, 2016]{BROOKS2016336}
+Brooks, J.~P. (2016).
+\newblock Challenges for case-control studies with microbiome data.
+\newblock {\em Annals of Epidemiology}, 26(5):336 -- 341.e1.
+\newblock The Microbiome and Epidemiology.
+
+\bibitem[Brooks et~al., 2015]{Brooks:2015aa}
+Brooks, J.~P., Edwards, D.~J., Harwich, Michael~D, J., Rivera, M.~C., Fettweis,
+  J.~M., Serrano, M.~G., Reris, R.~A., Sheth, N.~U., Huang, B., Girerd, P.,
+  Consortium, V.~M., Strauss, Jerome~F, r., Jefferson, K.~K., and Buck, G.~A.
+  (2015).
+\newblock The truth about metagenomics: quantifying and counteracting bias in
+  16s rrna studies.
+\newblock {\em BMC microbiology}, 15:66--66.
+
+\bibitem[Brussaard et~al., 2008]{Brussaard2008}
+Brussaard, C. P.~D., Wilhelm, S.~W., Thingstad, F., Weinbauer, M.~G., Bratbak,
+  G., Heldal, M., Kimmance, S.~A., Middelboe, M., Nagasaki, K., Paul, J.~H.,
+  Schroeder, D.~C., Suttle, C.~A., Vaqu{\'e}, D., and Wommack, K.~E. (2008).
+\newblock Global-scale processes with a nanoscale drive: the role of marine
+  viruses.
+\newblock {\em The Isme Journal}, 2:575 EP --.
+
+\bibitem[Comeau and Krisch, 2008]{Comeau2008}
+Comeau, A.~M. and Krisch, H.~M. (2008).
+\newblock {The Capsid of the T4 Phage Superfamily: The Evolution, Diversity,
+  and Structure of Some of the Most Prevalent Proteins in the Biosphere}.
+\newblock {\em Molecular Biology and Evolution}, 25(7):1321--1332.
+
+\bibitem[Doms et~al., 1993]{Doms1993}
+Doms, R.~W., Lamb, R.~A., Rose, J.~K., and Helenius, A. (1993).
+\newblock Folding and assembly of viral membrane proteins.
+\newblock {\em Virology}, 193(2):545 -- 562.
+
+\bibitem[Dwivedi et~al., 2013]{Dwivedi2013}
+Dwivedi, B., Xue, B., Lundin, D., Edwards, R.~A., and Breitbart, M. (2013).
+\newblock A bioinformatic analysis of ribonucleotide reductase genes in phage
+  genomes and metagenomes.
+\newblock {\em BMC evolutionary biology}, 13:33--33.
+
+\bibitem[Dı́ez et~al., 2001]{Diez2001}
+Dı́ez, B., Pedr{\'o}s-Ali{\'o}, C., and Massana, R. (2001).
+\newblock Study of genetic diversity of eukaryotic picoplankton in different
+  oceanic regions by small-subunit rrna gene cloning and sequencing.
+\newblock {\em Applied and Environmental Microbiology}, 67(7):2932.
+
+\bibitem[Edgar, 2010]{Edgar2010}
+Edgar, R.~C. (2010).
+\newblock {Search and clustering orders of magnitude faster than BLAST}.
+\newblock {\em Bioinformatics}, 26(19):2460--2461.
+
+\bibitem[Elledge et~al., 1992]{ELLEDGE1992119}
+Elledge, S.~J., Zhou, Z., and Allen, J.~B. (1992).
+\newblock Ribonucleotide reductase: regulation, regulation, regulation.
+\newblock {\em Trends in Biochemical Sciences}, 17(3):119 -- 123.
+
+\bibitem[Erb and Notredame, 2016]{metric}
+Erb, I. and Notredame, C. (2016).
+\newblock How should we measure proportionality on relative gene expression
+  data?
+\newblock {\em Theory in Biosciences}, 135(1):21--36.
+
+\bibitem[Fernandes et~al., 2013]{Fernandes}
+Fernandes, A.~D., Macklaim, J.~M., Linn, T.~G., Reid, G., and Gloor, G.~B.
+  (2013).
+\newblock Anova-like differential expression (aldex) analysis for mixed
+  population rna-seq.
+\newblock {\em PLOS ONE}, 8(7):e67019--.
+
+\bibitem[Fuhrman, 1999]{Fuhrman1999}
+Fuhrman, J.~A. (1999).
+\newblock Marine viruses and their biogeochemical and ecological effects.
+\newblock {\em Nature}, 399(6736):541--548.
+
+\bibitem[Gloor et~al., 2017]{Gloor2017}
+Gloor, G.~B., Macklaim, J.~M., Pawlowsky-Glahn, V., and Egozcue, J.~J. (2017).
+\newblock Microbiome datasets are compositional: And this is not optional.
+\newblock {\em Frontiers in Microbiology}, 8:2224.
+
+\bibitem[Gloor and Reid, 2016]{Gloor2016}
+Gloor, G.~B. and Reid, G. (2016).
+\newblock Compositional analysis: a valid approach to analyze microbiome
+  high-throughput sequencing data.
+\newblock {\em Canadian Journal of Microbiology}, 62(8):692--703.
+
+\bibitem[Gloor et~al., 2016]{Gloor2016_2}
+Gloor, G.~B., Wu, J.~R., Pawlowsky-Glahn, V., and Egozcue, J.~J. (2016).
+\newblock It's all relative: analyzing microbiome data as compositions.
+\newblock {\em Annals of Epidemiology}, 26(5):322--329.
+
+\bibitem[Hatfull et~al., 2006]{Hatfull2006}
+Hatfull, G.~F., Pedulla, M.~L., Jacobs-Sera, D., Cichon, P.~M., Foley, A.,
+  Ford, M.~E., Gonda, R.~M., Houtz, J.~M., Hryckowian, A.~J., Kelchner, V.~A.,
+  Namburi, S., Pajcini, K.~V., Popovich, M.~G., Schleicher, D.~T., Simanek,
+  B.~Z., Smith, A.~L., Zdanowicz, G.~M., Kumar, V., Peebles, C.~L., Jacobs,
+  Jr., W.~R., Lawrence, J.~G., and Hendrix, R.~W. (2006).
+\newblock Exploring the mycobacteriophage metaproteome: Phage genomics as an
+  educational platform.
+\newblock {\em PLOS Genetics}, 2(6):1--13.
+
+\bibitem[Jiang and Paul, 1998]{Jiang1998}
+Jiang, S.~C. and Paul, J.~H. (1998).
+\newblock Gene transfer by transduction in the marine environment.
+\newblock {\em Applied and environmental microbiology}, 64(8):2780--2787.
+
+\bibitem[Kang et~al., 2016]{Kang:2016ab}
+Kang, S., Rodrigues, J. L.~M., Ng, J.~P., and Gentry, T.~J. (2016).
+\newblock Hill number as a bacterial diversity measure framework with
+  high-throughput sequence data.
+\newblock {\em Scientific Reports}, 6(1):38263.
+
+\bibitem[Katoh et~al., 2002]{Katoh2002}
+Katoh, K., Misawa, K., Kuma, K., and Miyata, T. (2002).
+\newblock {MAFFT: a novel method for rapid multiple sequence alignment based on
+  fast Fourier transform}.
+\newblock {\em Nucleic Acids Research}, 30(14):3059--3066.
+
+\bibitem[Larose and Larose, 2014]{Larose2014}
+Larose, D.~T. and Larose, C.~D. (2014).
+\newblock {\em An Introduction to Data Mining}, chapter~1, pages 1--15.
+\newblock John Wiley \& Sons, Ltd.
+
+\bibitem[Lundin et~al., 2010]{Lundin2010}
+Lundin, D., Gribaldo, S., Torrents, E., Sj{\"o}berg, B.-M., and Poole, A.~M.
+  (2010).
+\newblock Ribonucleotide reduction - horizontal transfer of a required function
+  spans all three domains.
+\newblock {\em BMC Evolutionary Biology}, 10(1):383.
+
+\bibitem[Lundin et~al., 2009]{Lundin:2009aa}
+Lundin, D., Torrents, E., Poole, A.~M., and Sj{\"o}berg, B.-M. (2009).
+\newblock Rnrdb, a curated database of the universal enzyme family
+  ribonucleotide reductase, reveals a high level of misannotation in sequences
+  deposited to genbank.
+\newblock {\em BMC genomics}, 10:589--589.
+
+\bibitem[Mantel, 1967]{Mantel1967}
+Mantel, N. (1967).
+\newblock The detection of disease clustering and a generalized regression
+  approach.
+\newblock {\em Cancer Research}, 27(2 Part 1):209--220.
+
+\bibitem[McLaren et~al., 2019]{McLaren2019}
+McLaren, M.~R., Willis, A.~D., and Callahan, B.~J. (2019).
+\newblock Consistent and correctable bias in metagenomic sequencing
+  measurements.
+\newblock {\em bioRxiv}.
+
+\bibitem[McMurdie and Holmes, 2013]{McMurdie:2013aa}
+McMurdie, P.~J. and Holmes, S. (2013).
+\newblock phyloseq: An r package for reproducible interactive analysis and
+  graphics of microbiome census data.
+\newblock {\em PLOS ONE}, 8(4):e61217--.
+
+\bibitem[McMurdie and Holmes, 2014]{McMurdie2014}
+McMurdie, P.~J. and Holmes, S. (2014).
+\newblock Waste not, want not: Why rarefying microbiome data is inadmissible.
+\newblock {\em PLOS Computational Biology}, 10(4):1--12.
+
+\bibitem[Moore et~al., 2018]{Moore2018}
+Moore, R.~M., Harrison, A.~O., McAllister, S.~M., and Wommack, K.~E. (2018).
+\newblock Iroki: automatic customization and visualization of phylogenetic
+  trees.
+\newblock {\em bioRxiv}.
+
+\bibitem[Nordlund and Reichard, 2006]{Nordlund2006}
+Nordlund, P. and Reichard, P. (2006).
+\newblock Ribonucleotide reductases.
+\newblock {\em Annual Review of Biochemistry}, 75(1):681--706.
+
+\bibitem[Ochman et~al., 2000]{Ochman2000}
+Ochman, H., Lawrence, J.~G., and Groisman, E.~A. (2000).
+\newblock Lateral gene transfer and the nature of bacterial innovation.
+\newblock {\em Nature}, 405(6784):299--304.
+
+\bibitem[Palarea-Albaladejo and Mart{\'\i}n-Fern{\'a}ndez,
+  2015]{Palarea-Albaladejo:2015aa}
+Palarea-Albaladejo, J. and Mart{\'\i}n-Fern{\'a}ndez, J.~A. (2015).
+\newblock zcompositions ---r package for multivariate imputation of
+  left-censored data under a compositional approach.
+\newblock {\em Chemometrics and Intelligent Laboratory Systems}, 143:85--96.
+
+\bibitem[Pearson, 1895]{Pearson1895}
+Pearson, K. (1895).
+\newblock {Note on Regression and Inheritance in the Case of Two Parents}.
+\newblock {\em Proceedings of the Royal Society of London Series I},
+  58:240--242.
+
+\bibitem[Pesant et~al., 2015]{Pesant:2015aa}
+Pesant, S., Not, F., Picheral, M., Kandels-Lewis, S., Le~Bescot, N., Gorsky,
+  G., Iudicone, D., Karsenti, E., Speich, S., Troubl{\'e}, R., Dimier, C.,
+  Searson, S., Acinas, S.~G., Bork, P., Boss, E., Bowler, C., De~Vargas, C.,
+  Follows, M., Grimsley, N., Hingamp, P., Jaillon, O., Karp-Boss, L., Krzic,
+  U., Ogata, H., Raes, J., Reynaud, E.~G., Sardet, C., Sieracki, M., Stemmann,
+  L., Sullivan, M.~B., Sunagawa, S., Velayoudon, D., Weissenbach, J., Wincker,
+  P., and Coordinators, T. O.~C. (2015).
+\newblock Open science resources for the discovery and analysis of tara oceans
+  data.
+\newblock {\em Scientific Data}, 2(1):150023.
+
+\bibitem[Quinn et~al., 2017]{propr}
+Quinn, T.~P., Richardson, M.~F., Lovell, D., and Crowley, T.~M. (2017).
+\newblock propr: An r-package for identifying proportionally abundant features
+  using compositional data analysis.
+\newblock {\em Scientific Reports}, 7(1):16252.
+
+\bibitem[Rosenwasser et~al., 2016]{Rosenwasser2016}
+Rosenwasser, S., Ziv, C., Creveld, S. G.~v., and Vardi, A. (2016).
+\newblock Virocell metabolism: Metabolic innovations during
+  host\&{\#}x2013;virus interactions in the ocean.
+\newblock {\em Trends in Microbiology}, 24(10):821--832.
+
+\bibitem[Sakowski et~al., 2014]{Sakowski2014}
+Sakowski, E.~G., Munsell, E.~V., Hyatt, M., Kress, W., Williamson, S.~J.,
+  Nasko, D.~J., Polson, S.~W., and Wommack, K.~E. (2014).
+\newblock Ribonucleotide reductases reveal novel viral diversity and predict
+  biological and ecological features of unknown marine viruses.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  111(44):15786--15791.
+
+\bibitem[Schlitzer, 2002]{Schlitzer2002}
+Schlitzer, R. (2002).
+\newblock Interactive analysis and visualization of geoscience data with ocean
+  data view.
+\newblock {\em Computers \& Geosciences}, 28(10):1211 -- 1218.
+\newblock Shareware and freeware in the Geosciences II. A special issue in
+  honour of John Butler.
+
+\bibitem[Schmidt et~al., 2014]{Schmidt2014}
+Schmidt, H.~F., Sakowski, E.~G., Williamson, S.~J., Polson, S.~W., and Wommack,
+  K.~E. (2014).
+\newblock Shotgun metagenomics indicates novel family a dna polymerases
+  predominate within marine virioplankton.
+\newblock {\em The ISME journal}, 8(1):103--114.
+
+\bibitem[Schwartz and Lindell, 2017]{Schwartz:2017aa}
+Schwartz, D.~A. and Lindell, D. (2017).
+\newblock Genetic hurdles limit the arms race between prochlorococcus and the
+  t7-like podoviruses infecting them.
+\newblock {\em The ISME Journal}, 11(8):1836--1851.
+
+\bibitem[Sinha et~al., 2017]{Sinha:2017aa}
+Sinha, R., Abu-Ali, G., Vogtmann, E., Fodor, A.~A., Ren, B., Amir, A.,
+  Schwager, E., Crabtree, J., Ma, S., Consortium, T. M. Q. C.~P., Abnet, C.~C.,
+  Knight, R., White, O., and Huttenhower, C. (2017).
+\newblock Assessment of variation in microbial community amplicon sequencing by
+  the microbiome quality control (mbqc) project consortium.
+\newblock {\em Nature Biotechnology}, 35:1077 EP --.
+
+\bibitem[Spearman, 2010]{Spearman2010}
+Spearman, C. (2010).
+\newblock {The proof and measurement of association between two things}.
+\newblock {\em International Journal of Epidemiology}, 39(5):1137--1150.
+
+\bibitem[Sullivan et~al., 2005]{Sullivan2005}
+Sullivan, M.~B., Coleman, M.~L., Weigele, P., Rohwer, F., and Chisholm, S.~W.
+  (2005).
+\newblock Three prochlorococcus cyanophage genomes: signature features and
+  ecological interpretations.
+\newblock {\em PLoS biology}, 3(5):e144--e144.
+
+\bibitem[Suttle, 2005]{Suttle2005}
+Suttle, C.~A. (2005).
+\newblock Viruses in the sea.
+\newblock {\em Nature}, 437(7057):356--361.
+
+\bibitem[Team, 2013]{R}
+Team, R.~C. (2013).
+\newblock {\em R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+\newblock {ISBN} 3-900051-07-0.
+
+\bibitem[{van den Boogaart} et~al., 2018]{compositions}
+{van den Boogaart}, K.~G., Tolosana-Delgado, R., and Bren, M. (2018).
+\newblock compositions: Compositional data analysis.
+
+\bibitem[Weiss et~al., 2017]{Weiss:2017aa}
+Weiss, S., Xu, Z.~Z., Peddada, S., Amir, A., Bittinger, K., Gonzalez, A.,
+  Lozupone, C., Zaneveld, J.~R., V{\'a}zquez-Baeza, Y., Birmingham, A., Hyde,
+  E.~R., and Knight, R. (2017).
+\newblock Normalization and microbial differential abundance strategies depend
+  upon data characteristics.
+\newblock {\em Microbiome}, 5(1):27.
+
+\bibitem[Whittaker and Helenius, 1998]{Whittaker1998}
+Whittaker, G.~R. and Helenius, A. (1998).
+\newblock Nuclear import and export of viruses and virus genomes.
+\newblock {\em Virology}, 246(1):1 -- 23.
+
+\bibitem[Wickham, 2016]{ggplot2}
+Wickham, H. (2016).
+\newblock {\em ggplot2: Elegant Graphics for Data Analysis}.
+\newblock Springer-Verlag New York.
+
+\bibitem[Wickham, 2017]{tidyverse}
+Wickham, H. (2017).
+\newblock Easily install and load the 'tidyverse'.
+
+\bibitem[Wilhelm and Suttle, 1999]{Wilhelm1999}
+Wilhelm, S.~W. and Suttle, C.~A. (1999).
+\newblock {Viruses and Nutrient Cycles in the Sea: Viruses play critical roles
+  in the structure and function of aquatic food webs}.
+\newblock {\em BioScience}, 49(10):781--788.
+
+\bibitem[Willis and Bunge, 2015]{Willis:2015aa}
+Willis, A. and Bunge, J. (2015).
+\newblock Estimating diversity via frequency ratios.
+\newblock {\em Biometrics}, 71(4):1042--1049.
+
+\bibitem[Willis et~al., 2017]{Willis:2017aa}
+Willis, A., Bunge, J., and Whitman, T. (2017).
+\newblock Improved detection of changes in species richness in high diversity
+  microbial communities.
+\newblock {\em Journal of the Royal Statistical Society: Series C (Applied
+  Statistics)}, 66(5):963--977.
+
+\bibitem[Willis and Martin, 2018]{Willis305045}
+Willis, A.~D. and Martin, B.~D. (2018).
+\newblock Divnet: Estimating diversity in networked communities.
+\newblock {\em bioRxiv}.
+
+\bibitem[Zhong et~al., 2002]{Zhong2002}
+Zhong, Y., Chen, F., Wilhelm, S.~W., Poorvin, L., and Hodson, R.~E. (2002).
+\newblock Phylogenetic diversity of marine cyanophage isolates and natural
+  virus communities as revealed by sequences of viral capsid assembly protein
+  gene g20.
+\newblock {\em Applied and environmental microbiology}, 68(4):1576--1584.
+
+\end{thebibliography}
